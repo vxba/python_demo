@@ -25,7 +25,7 @@ SECRET_KEY = 'giwle%_k^07=%ibrns=o9-9=&t6zq13$65xaj!-p%iot&ygl7-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
